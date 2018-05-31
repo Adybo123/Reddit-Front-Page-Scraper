@@ -1,0 +1,20 @@
+{
+  "name": "reddit-scraper",
+  "version": "0.1.0",
+  "description": "A Reddit Front Page Scraper",
+  "main": "redditMemes.js",
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node redditFrontPage.js"
+  },
+  "keywords": [
+    "reddit",
+    "request",
+    "scraper"
+  ],
+  "author": "DeeBo",
+  "license": "ISC"
+}
